@@ -416,7 +416,7 @@ const slides: SlideData[] = [
             <div class="slide12-kpi-title"><span class="slide12-kpi-icon">📈</span>Performances de couverture & Qualité</div>
             <div class="slide12-kpi-grid">
               <div class="slide12-kpi-box">
-                <div class="slide12-kpi-box-title">Surface Utile RSRP (km²)</div>
+                <div class="slide12-kpi-box-title">Surface Utile SS-RSRP (km²)</div>
                 <div class="slide12-kpi-values"><span class="slide12-kpi-blue">0.55</span><span class="slide12-kpi-divider">/</span><span class="slide12-kpi-orange">0.025</span></div>
               </div>
               <div class="slide12-kpi-box">
